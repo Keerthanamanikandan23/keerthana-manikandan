@@ -3,7 +3,7 @@ Hi 👋 I'm Keerthana
 🎓 BE CSE (3rd Year)  
 💻 Skills: Java, DSA, HTML, CSS, JavaScript  
 🌱 Currently learning: Backend Development  
-🚀 Goal: Internship / Placement-ready by 2026  
+🚀 Goal: Internship / Placement-ready
 
 📌 What I do:
 - Solve DSA problems daily
